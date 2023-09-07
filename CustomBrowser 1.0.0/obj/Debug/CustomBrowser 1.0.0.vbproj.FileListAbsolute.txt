@@ -1,0 +1,14 @@
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\bin\Debug\CustomBrowser 1.0.0.exe.config
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\bin\Debug\CustomBrowser 1.0.0.exe
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\bin\Debug\CustomBrowser 1.0.0.pdb
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\bin\Debug\CustomBrowser 1.0.0.xml
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\bin\Debug\Geckofx-Core.dll
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\bin\Debug\Geckofx-Winforms.dll
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\bin\Debug\Geckofx-Core.pdb
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\bin\Debug\Geckofx-Winforms.pdb
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\obj\Debug\CustomBrowser 1.0.0.vbprojResolveAssemblyReference.cache
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\obj\Debug\CustomBrowser_1._0._0.Resources.resources
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\obj\Debug\CustomBrowser 1.0.0.vbproj.GenerateResource.Cache
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\obj\Debug\CustomBrowser 1.0.0.exe
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\obj\Debug\CustomBrowser 1.0.0.xml
+D:\Мои проекты\Visual Basic 2015\CustomBrowser 1.0.0\CustomBrowser 1.0.0\obj\Debug\CustomBrowser 1.0.0.pdb
